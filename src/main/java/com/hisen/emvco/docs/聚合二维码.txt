@@ -1,0 +1,10 @@
+
+Visa的聚合二维码：
+https://www.mastercardlabs.com/masterpass-qr/
+
+https://www.cnblogs.com/iplus/category/684929.html
+
+https://github.com/juanroman/emvqr
+
+https://github.com/dongri/emvco-qrcode-doc
+

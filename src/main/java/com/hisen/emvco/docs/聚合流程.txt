@@ -1,0 +1,14 @@
+
+业务流程：
+	Applicat QRCode ->QRCode Reader(扫码枪或app)->POI(接口设备)->收单机构->网关->发卡行
+
+生成步骤：
+	1.组织QRCode Payload：  
+		payLoad有五部分组成：
+			Payload Format Indicator   TAG=85  定义QR的版本，默认的Value值是CPV01
+			Application Template	   TAG=61
+			Common Data Template	   TAG=62
+			其它模板				   自定义，一般是在上面的累加1
+	2.转换二进制的Payload为base64的数据【RFC 4648中定义的】
+	3.把加密后的payload生成二维码 （参考3.2QR Code Encoding）
+	
