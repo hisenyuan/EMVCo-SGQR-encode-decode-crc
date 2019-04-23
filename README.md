@@ -1,6 +1,7 @@
 # EMVCo-SGQR-encode-decode-crc
 about EMVCo SGQR encode decode crc
-
+## 零、运行结果
+https://github.com/hisenyuan/EMVCo-SGQR-encode-decode-crc/blob/master/src/main/java/com/hisen/emvco/docs/emvco-str.txt
 ## 一、说明
 1. 本项目是SGQR(新加坡标准聚合二维码项目)相关调研;
 2. SGQR基于emvco ISO标准;
