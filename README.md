@@ -4,7 +4,7 @@ about EMVCo SGQR encode decode crc
 原始报文：
 https://github.com/hisenyuan/EMVCo-SGQR-encode-decode-crc/blob/master/src/main/java/com/hisen/emvco/docs/emvco-str.txt
 
-emvco qr(form a real aerchant, pls do not pay)
+emvco qr(form a real maerchant, pls do not pay)
 
 ![emvco qr code](https://raw.githubusercontent.com/hisenyuan/EMVCo-SGQR-encode-decode-crc/master/src/main/java/com/hisen/emvco/img/emvco_qr_code%5Bproduct%5D.png)
 
