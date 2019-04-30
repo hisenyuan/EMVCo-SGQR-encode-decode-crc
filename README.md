@@ -8,7 +8,7 @@ emvco qr：
 
 ps:product code
 
-![emvco qr code](/src/com/hisen/emvco/img/emvco_qr_code[product].png)
+![emvco qr code](https://raw.githubusercontent.com/hisenyuan/EMVCo-SGQR-encode-decode-crc/master/src/main/java/com/hisen/emvco/img/emvco_qr_code%5Bproduct%5D.png)
 
 ## 二、功能
 1. encode：crc加密得到可用的二维码数据;
