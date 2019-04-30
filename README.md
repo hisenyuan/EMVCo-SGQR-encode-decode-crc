@@ -1,7 +1,14 @@
 # EMVCo-SGQR-encode-decode-crc
 about EMVCo SGQR encode decode crc
 ## 一、结果
+原始报文：
 https://github.com/hisenyuan/EMVCo-SGQR-encode-decode-crc/blob/master/src/main/java/com/hisen/emvco/docs/emvco-str.txt
+
+emvco qr：
+
+ps:product code
+
+![emvco qr code](/src/com/hisen/emvco/img/emvco_qr_code[product].png)
 
 ## 二、功能
 1. encode：crc加密得到可用的二维码数据;
