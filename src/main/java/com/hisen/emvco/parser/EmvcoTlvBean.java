@@ -3,6 +3,7 @@ package com.hisen.emvco.parser;
 import java.util.StringJoiner;
 
 /**
+ * "0006123456" -> tag 00 length 6 value 123456
  * @Author hisenyuan
  * @Description $end$
  * @Date 2019/3/6 21:12

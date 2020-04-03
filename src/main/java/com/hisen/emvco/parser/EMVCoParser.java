@@ -1,8 +1,9 @@
 package com.hisen.emvco.parser;
 
+import org.apache.commons.lang3.math.NumberUtils;
+
 import java.util.HashMap;
 import java.util.Map;
-import java.util.regex.Pattern;
 
 /**
  * @Author hisenyuan
@@ -71,7 +72,6 @@ public class EMVCoParser {
     }
 
     private static boolean isInteger(String str) {
-        Pattern pattern = Pattern.compile("^[-\\+]?[\\d]*$");
-        return pattern.matcher(str).matches();
+        return NumberUtils.isCreatable(str);
     }
 }
