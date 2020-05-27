@@ -6,7 +6,7 @@ https://github.com/hisenyuan/EMVCo-SGQR-encode-decode-crc/blob/master/src/main/j
 
 emvco qr(form a real maerchant, pls do not pay)
 
-![emvco qr code](https://raw.githubusercontent.com/hisenyuan/EMVCo-SGQR-encode-decode-crc/master/src/main/java/com/hisen/emvco/img/emvco_qr_code%5Bproduct%5D.png)
+![emvco qr code](https://wx4.sinaimg.cn/mw690/006McF9dly1gf7bh2gqmbj3078078q2y.jpg)
 
 ## 二、功能
 1. encode：crc加密得到可用的二维码数据;
